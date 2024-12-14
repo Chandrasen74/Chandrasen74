@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Chandrasen74
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...blender
-- 💞️ I’m looking to collaborate on ... unity
+- 👀 I’m interested in ... coding stuff and random ai 
+- 🌱 I’m currently learning ... random stuff
+- 💞️ I’m looking to collaborate on ... scratch
 - 📫 How to reach me ... singhchandrasen74@gmail.com
 
 <!---
