@@ -1,34 +1,27 @@
 # Chandrasen74
 
+**Live demo:** https://github.com/Chandrasen74  
+**Repository:** https://github.com/Chandrasen74/Chandrasen74
+
+![Screenshot of Chandrasen74](screenshot.png)
+
 ## Overview
-**Chandrasen74** is a project in this repository.
+`Chandrasen74` is a project repository.
 
-- Contains 1 tracked file(s) (sample: README.md).
+## Language & stack details
+- See repository source files for implementation details.
 
-**Live/demo:** https://github.com/Chandrasen74
-
-## Repository contents
-- `README.md`
-
-## Getting started
+## How to install & run
+### Setup
 ```bash
 git clone https://github.com/Chandrasen74/Chandrasen74.git
 cd Chandrasen74
 ```
-Review the repository contents above for entrypoints and usage details.
+Review the repository files for project-specific prerequisites and entrypoints.
+
+## Repository structure (top-level/sample)
+- `README.md`
+- `screenshot.png`
 
 ## Status
-README generated/updated as part of a profile-wide documentation pass based on repository contents.
-
-## Previous README (reference)
-
-- 👋 Hi, I’m @Chandrasen74
-- 👀 I’m interested in ... coding stuff and random ai 
-- 🌱 I’m currently learning ... random stuff
-- 💞️ I’m looking to collaborate on ... scratch
-- 📫 How to reach me ... singhchandrasen74@gmail.com
-
-<!---
-Chandrasen74/Chandrasen74 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Documented with screenshot, language/stack details, and setup instructions as part of a profile-wide README update.
