@@ -38,3 +38,10 @@ I keep a lot of experiments, themed sketches, and learning projects across my re
 
 ---
 <div align="center"><sub>Clean builds, playful glitches.</sub></div>
+
+## License
+
+Copyright (c) 2026 Chandrasen. All rights reserved.
+
+This repository is proprietary. No permission is granted to use, copy, modify, or distribute this code without prior written permission.
+See [LICENSE](LICENSE).
