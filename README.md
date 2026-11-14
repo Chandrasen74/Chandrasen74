@@ -6,7 +6,7 @@
 
 Clean UI, curious code, and a little glitch in the matrix.
 
-[Portfolio](https://chandrasen74.github.io/Portfolio/) • [Website](https://rebrand.ly/mario/is-back) • [Email](mailto:singhchandrasen74@gmail.com)
+[Website](https://rebrand.ly/mario/is-back) • [Email](mailto:singhchandrasen74@gmail.com)
 
 </div>
 
@@ -17,11 +17,11 @@ Clean UI, curious code, and a little glitch in the matrix.
 | Project | What it is | Stack | Live |
 | --- | --- | --- | --- |
 | [password](https://github.com/Chandrasen74/password) | A playful prank “secret page” with a password gate, themed visuals, and animated background effects. | TypeScript, React, Vite, Tailwind CSS | [Demo](https://chandrasen74.github.io/password/) |
-| [Portfolio](https://github.com/Chandrasen74/Portfolio) | My personal space for projects, experiments, and web demos. | JavaScript, HTML, CSS | [Demo](https://chandrasen74.github.io/Portfolio/) |
 | [Mario](https://github.com/Chandrasen74/Mario) | A fun, browser-based Mario-inspired web experiment. | JavaScript, HTML, CSS | [Demo](https://chandrasen74.github.io/Mario/) |
 | [Minecraft-in-html](https://github.com/Chandrasen74/Minecraft-in-html) | A browser-based Minecraft-inspired experience built as a single-file web app. | HTML, JavaScript, CSS | [Demo](https://chandrasen74.github.io/Minecraft-in-html/) |
 | [Casio-W-93](https://github.com/Chandrasen74/Casio-W-93) | A web UI recreation inspired by the classic Casio W-93 digital watch. | HTML, CSS, JavaScript | [Demo](https://chandrasen74.github.io/Casio-W-93/) |
 | [D6-CUBE](https://github.com/Chandrasen74/D6-CUBE) | A visual/interactive D6 cube experiment focused on CSS-driven 3D/animation. | CSS, HTML | [Demo](https://chandrasen74.github.io/D6-CUBE/) |
+| [clockinaclock](https://github.com/Chandrasen74/clockinaclock) | A creative “clock in a clock” time visualization experiment. | JavaScript, HTML, CSS | [Demo](https://chandrasen74.github.io/clockinaclock/) |
 
 ## What I like building
 - Playful front-end experiments and interactive mini experiences
