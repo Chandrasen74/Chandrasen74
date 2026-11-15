@@ -50,12 +50,12 @@ I vibe-code with [OpenCode](https://opencode.ai), ship small ideas as demos, the
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Chandrasen74&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=E7EEF2&text_color=9aa5b1&icon_color=58a6ff" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Chandrasen74&show_icons=true&include_all_commits=true&hide_border=true&bg_color=ffffff&title_color=0B1118&text_color=4a5560&icon_color=0969da" alt="Chandrasen's GitHub stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-rickstaa.vercel.app/api?username=Chandrasen74&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=E7EEF2&text_color=9aa5b1&icon_color=58a6ff" />
+    <img height="165" src="https://github-readme-stats-rickstaa.vercel.app/api?username=Chandrasen74&show_icons=true&include_all_commits=true&hide_border=true&bg_color=ffffff&title_color=0B1118&text_color=4a5560&icon_color=0969da" alt="Chandrasen's GitHub stats" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandrasen74&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=E7EEF2&text_color=9aa5b1" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandrasen74&layout=compact&langs_count=8&hide_border=true&bg_color=ffffff&title_color=0B1118&text_color=4a5560" alt="Most used languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=Chandrasen74&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=E7EEF2&text_color=9aa5b1" />
+    <img height="165" src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=Chandrasen74&layout=compact&langs_count=8&hide_border=true&bg_color=ffffff&title_color=0B1118&text_color=4a5560" alt="Most used languages" />
   </picture>
 </p>
 <p align="center">
@@ -72,7 +72,9 @@ I keep a lot of experiments, themed sketches, and learning projects across my re
 
 ---
 
-<div align="center"><sub>Clean builds, playful glitches.</sub></div>
+<div align="center">
+  <img src="assets/clean-builds-playful-glitches.gif" alt="Clean builds, playful glitches." width="100%" />
+</div>
 
 ## License
 
