@@ -1,6 +1,6 @@
-<div align="center">
+﻿<div align="center">
 
-# Hi, I'm ΛҠЦŁMΛCҢ𝟟𝟜
+# Hi, I'm Î›Ò Ð¦ÅMÎ›CÒ¢ðŸŸðŸœ
 
 **Creative developer building playful web experiments, interactive UIs, and clean browser experiences.**
 
@@ -20,12 +20,12 @@ I vibe-code with [OpenCode](https://opencode.ai), ship small ideas as demos, the
 
 | Project | What it is | Stack | Links |
 | --- | --- | --- | --- |
-| [password](https://github.com/Chandrasen74/password) | A playful "secret page" with a password gate, themed visuals, and animated background effects. | TypeScript, React, Vite, Tailwind CSS | [Repo](https://github.com/Chandrasen74/password) · [Demo](https://chandrasen74.github.io/password/) |
-| [Mario](https://github.com/Chandrasen74/Mario) | A fun, browser-based Mario-inspired web experiment. | JavaScript, HTML, CSS | [Repo](https://github.com/Chandrasen74/Mario) · [Demo](https://chandrasen74.github.io/Mario/) |
-| [Minecraft-in-html](https://github.com/Chandrasen74/Minecraft-in-html) | A browser-based Minecraft-inspired voxel sandbox built as a web app. | HTML, CSS, JavaScript | [Repo](https://github.com/Chandrasen74/Minecraft-in-html) · [Demo](https://chandrasen74.github.io/Minecraft-in-html/) |
-| [Casio-W-93](https://github.com/Chandrasen74/Casio-W-93) | A web UI recreation inspired by the classic Casio W-93 digital watch. | HTML, CSS, JavaScript | [Repo](https://github.com/Chandrasen74/Casio-W-93) · [Demo](https://chandrasen74.github.io/Casio-W-93/) |
-| [friday](https://github.com/Chandrasen74/friday) | Local-first Android assistant (F.R.I.D.A.Y) with on-device LiteRT-LM inference, remote API support, and chat persistence. | Kotlin, Jetpack Compose | [Repo](https://github.com/Chandrasen74/friday) · [Release](https://github.com/Chandrasen74/friday/releases/tag/v0.9.0) |
-| [clockinaclock](https://github.com/Chandrasen74/clockinaclock) | A creative "clock in a clock" time visualization experiment. | JavaScript, HTML, CSS | [Repo](https://github.com/Chandrasen74/clockinaclock) · [Demo](https://chandrasen74.github.io/clockinaclock/) |
+| [password](https://github.com/Chandrasen74/password) | A playful "secret page" with a password gate, themed visuals, and animated background effects. | TypeScript, React, Vite, Tailwind CSS | [Repo](https://github.com/Chandrasen74/password) Â· [Demo](https://chandrasen74.github.io/password/) |
+| [Mario](https://github.com/Chandrasen74/Mario) | A fun, browser-based Mario-inspired web experiment. | JavaScript, HTML, CSS | [Repo](https://github.com/Chandrasen74/Mario) Â· [Demo](https://chandrasen74.github.io/Mario/) |
+| [Minecraft-in-html](https://github.com/Chandrasen74/Minecraft-in-html) | A browser-based Minecraft-inspired voxel sandbox built as a web app. | HTML, CSS, JavaScript | [Repo](https://github.com/Chandrasen74/Minecraft-in-html) Â· [Demo](https://chandrasen74.github.io/Minecraft-in-html/) |
+| [Casio-W-93](https://github.com/Chandrasen74/Casio-W-93) | A web UI recreation inspired by the classic Casio W-93 digital watch. | HTML, CSS, JavaScript | [Repo](https://github.com/Chandrasen74/Casio-W-93) Â· [Demo](https://chandrasen74.github.io/Casio-W-93/) |
+| [friday](https://github.com/Chandrasen74/friday) | Local-first Android assistant (F.R.I.D.A.Y) with on-device LiteRT-LM inference, remote API support, and chat persistence. | Kotlin, Jetpack Compose | [Repo](https://github.com/Chandrasen74/friday) Â· [Release](https://github.com/Chandrasen74/friday/releases/tag/v0.9.0) |
+| [clockinaclock](https://github.com/Chandrasen74/clockinaclock) | A creative "clock in a clock" time visualization experiment. | JavaScript, HTML, CSS | [Repo](https://github.com/Chandrasen74/clockinaclock) Â· [Demo](https://chandrasen74.github.io/clockinaclock/) |
 
 ## What I like building
 - Playful front-end experiments and interactive mini experiences
