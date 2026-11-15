@@ -1,6 +1,6 @@
-﻿<div align="center">
+<div align="center">
 
-# Hi, I'm Î›Ò Ð¦ÅMÎ›CÒ¢ðŸŸðŸœ
+# Hi, I'm ҪHΛNDRΛSЄN
 
 **Creative developer building playful web experiments, interactive UIs, and clean browser experiences.**
 
