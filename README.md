@@ -64,6 +64,14 @@ I vibe-code with [OpenCode](https://opencode.ai), ship small ideas as demos, the
   <img src="https://raw.githubusercontent.com/Chandrasen74/Chandrasen74/main/github-metrics.svg" alt="GitHub metrics" width="100%" />
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chandrasen74/Chandrasen74/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chandrasen74/Chandrasen74/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Chandrasen74/Chandrasen74/output/github-snake.svg" width="100%" />
+  </picture>
+</p>
+
 <sub>Auto-generated daily via GitHub Actions.</sub>
 
 ## More to explore
