@@ -56,7 +56,10 @@ I vibe-code with [OpenCode](https://opencode.ai), ship small ideas as demos, the
 ## More to explore
 I keep a lot of experiments, themed sketches, and learning projects across my repos. Many now have READMEs, screenshots, setup notes, and demo links where available.
 
-- Browse all repos: [github.com/Chandrasen74?tab=repositories](https://github.com/Chandrasen74?tab=repositories)
+<p align="center">
+  <a href="https://github.com/Chandrasen74?tab=repositories"><img src="https://img.shields.io/badge/Browse%20All%20Repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Browse all repositories" /></a>
+  <a href="https://github.com/Chandrasen74"><img src="https://img.shields.io/badge/View%20Profile-0B1118?style=for-the-badge&logo=github&logoColor=white" alt="View profile" /></a>
+</p>
 
 ---
 
