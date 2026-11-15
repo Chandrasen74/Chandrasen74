@@ -49,20 +49,32 @@ I vibe-code with [OpenCode](https://opencode.ai), ship small ideas as demos, the
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-rickstaa.vercel.app/api?username=Chandrasen74&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&bg_color=0d1117&title_color=E7EEF2&text_color=9aa5b1&icon_color=58a6ff" />
-    <img height="165" src="https://github-readme-stats-rickstaa.vercel.app/api?username=Chandrasen74&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&bg_color=ffffff&title_color=0B1118&text_color=4a5560&icon_color=0969da" alt="Chandrasen's GitHub stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=Chandrasen74&layout=compact&langs_count=10&card_width=320&hide_border=true&bg_color=0d1117&title_color=E7EEF2&text_color=9aa5b1" />
-    <img height="165" src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=Chandrasen74&layout=compact&langs_count=10&card_width=320&hide_border=true&bg_color=ffffff&title_color=0B1118&text_color=4a5560" alt="Most used languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/0-profile-details.svg" />
+    <img src="profile-summary-card-output/default/0-profile-details.svg" alt="Profile details" />
   </picture>
 </p>
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Chandrasen74&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakNum=E7EEF2&sideNums=E7EEF2&currStreakLabel=58a6ff&sideLabels=9aa5b1&dates=8b949e" />
-    <img src="https://streak-stats.demolab.com?user=Chandrasen74&hide_border=true&background=ffffff&ring=0969da&fire=0969da&currStreakNum=0B1118&sideNums=0B1118&currStreakLabel=0969da&sideLabels=4a5560&dates=6a737d" alt="Contribution streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/3-stats.svg" />
+    <img height="165" src="profile-summary-card-output/default/3-stats.svg" alt="Stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/4-productive-time.svg" />
+    <img height="165" src="profile-summary-card-output/default/4-productive-time.svg" alt="Productive time" />
   </picture>
 </p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/1-repos-per-language.svg" />
+    <img height="165" src="profile-summary-card-output/default/1-repos-per-language.svg" alt="Repos per language" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/2-most-commit-language.svg" />
+    <img height="165" src="profile-summary-card-output/default/2-most-commit-language.svg" alt="Most commit language" />
+  </picture>
+</p>
+
+<sub>Cards auto-generated daily via GitHub Actions.</sub>
 
 ## More to explore
 I keep a lot of experiments, themed sketches, and learning projects across my repos. Many now have READMEs, screenshots, setup notes, and demo links where available.
