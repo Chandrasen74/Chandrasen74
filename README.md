@@ -48,33 +48,10 @@ I vibe-code with [OpenCode](https://opencode.ai), ship small ideas as demos, the
 ## On GitHub
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/0-profile-details.svg" />
-    <img src="profile-summary-card-output/default/0-profile-details.svg" alt="Profile details" />
-  </picture>
-</p>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/3-stats.svg" />
-    <img height="165" src="profile-summary-card-output/default/3-stats.svg" alt="Stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/4-productive-time.svg" />
-    <img height="165" src="profile-summary-card-output/default/4-productive-time.svg" alt="Productive time" />
-  </picture>
-</p>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/1-repos-per-language.svg" />
-    <img height="165" src="profile-summary-card-output/default/1-repos-per-language.svg" alt="Repos per language" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/2-most-commit-language.svg" />
-    <img height="165" src="profile-summary-card-output/default/2-most-commit-language.svg" alt="Most commit language" />
-  </picture>
+  <img src="github-metrics.svg" alt="GitHub metrics" width="100%" />
 </p>
 
-<sub>Cards auto-generated daily via GitHub Actions.</sub>
+<sub>Auto-generated daily via GitHub Actions.</sub>
 
 ## More to explore
 I keep a lot of experiments, themed sketches, and learning projects across my repos. Many now have READMEs, screenshots, setup notes, and demo links where available.
