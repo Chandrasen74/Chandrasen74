@@ -73,7 +73,7 @@ I keep a lot of experiments, themed sketches, and learning projects across my re
 ---
 
 <div align="center">
-  <img src="assets/clean-builds-playful-glitches.gif" alt="Clean builds, playful glitches." style="max-width: 720px; width: 100%; height: auto;" />
+  <img src="assets/clean-builds-playful-glitches.gif" alt="Clean builds, playful glitches." style="width: 100%; height: auto;" />
 </div>
 
 ## License
