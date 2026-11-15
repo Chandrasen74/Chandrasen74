@@ -48,7 +48,7 @@ I vibe-code with [OpenCode](https://opencode.ai), ship small ideas as demos, the
 ## On GitHub
 
 <p align="center">
-  <img src="github-metrics.svg" alt="GitHub metrics" width="100%" />
+  <img src="https://raw.githubusercontent.com/Chandrasen74/Chandrasen74/main/github-metrics.svg" alt="GitHub metrics" width="100%" />
 </p>
 
 <sub>Auto-generated daily via GitHub Actions.</sub>
