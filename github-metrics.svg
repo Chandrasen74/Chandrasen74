@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="700" height="714" viewBox="0 0 700 714">
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="378" viewBox="0 0 700 378">
 <style>
 text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;fill:#24292f;font-size:14px}
 .title{font-size:18px;font-weight:600}.muted{fill:#57606a;font-size:13px}.val{font-weight:600}.small{font-size:12px;fill:#57606a}
 @media (prefers-color-scheme: dark){text{fill:#c9d1d9}.muted,.small{fill:#8b949e}rect.bg{fill:#0d1117}rect.card{fill:#161b22;stroke:#30363d}rect.track{fill:#21262d}}
 </style>
-<rect class="bg" x="0" y="0" width="700" height="714" rx="10" fill="#ffffff"/>
-<rect class="card" x="1" y="1" width="698" height="712" rx="10" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect class="bg" x="0" y="0" width="700" height="378" rx="10" fill="#ffffff"/>
+<rect class="card" x="1" y="1" width="698" height="376" rx="10" fill="#f6f8fa" stroke="#d0d7de"/>
 <text class="title" x="24" y="40">GitHub Stats</text>
 <text class="muted" x="24" y="70">Public repos</text>
 <text class="val" x="24" y="92">39</text>
@@ -16,77 +16,29 @@ text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,san
 <text class="muted" x="504" y="70">Stars (owned repos)</text>
 <text class="val" x="504" y="92">4</text>
 <text class="muted" x="24" y="135">Top languages by code in owned non-fork repositories</text>
-<text x="24" y="170">C++</text>
+<text x="24" y="170">JavaScript</text>
 <rect class="track" x="180" y="159" width="300" height="14" rx="7" fill="#d0d7de"/>
-<rect x="180" y="159" width="300" height="14" rx="7" fill="#f34b7d"/>
-<text class="small" x="492" y="170">35.6% (40.5M)</text>
-<text x="24" y="198">Python</text>
+<rect x="180" y="159" width="300" height="14" rx="7" fill="#f1e05a"/>
+<text class="small" x="492" y="170">41.5% (1.0M)</text>
+<text x="24" y="198">HTML</text>
 <rect class="track" x="180" y="187" width="300" height="14" rx="7" fill="#d0d7de"/>
-<rect x="180" y="187" width="282" height="14" rx="7" fill="#3572A5"/>
-<text class="small" x="492" y="198">33.5% (38.2M)</text>
-<text x="24" y="226">HTML</text>
+<rect x="180" y="187" width="287" height="14" rx="7" fill="#e34c26"/>
+<text class="small" x="492" y="198">39.8% (961.6K)</text>
+<text x="24" y="226">CSS</text>
 <rect class="track" x="180" y="215" width="300" height="14" rx="7" fill="#d0d7de"/>
-<rect x="180" y="215" width="78" height="14" rx="7" fill="#e34c26"/>
-<text class="small" x="492" y="226">9.3% (10.6M)</text>
-<text x="24" y="254">C</text>
+<rect x="180" y="215" width="107" height="14" rx="7" fill="#563d7c"/>
+<text class="small" x="492" y="226">14.8% (358.6K)</text>
+<text x="24" y="254">TypeScript</text>
 <rect class="track" x="180" y="243" width="300" height="14" rx="7" fill="#d0d7de"/>
-<rect x="180" y="243" width="48" height="14" rx="7" fill="#555555"/>
-<text class="small" x="492" y="254">5.8% (6.6M)</text>
-<text x="24" y="282">QML</text>
+<rect x="180" y="243" width="18" height="14" rx="7" fill="#3178c6"/>
+<text class="small" x="492" y="254">2.5% (61.0K)</text>
+<text x="24" y="282">Python</text>
 <rect class="track" x="180" y="271" width="300" height="14" rx="7" fill="#d0d7de"/>
-<rect x="180" y="271" width="32" height="14" rx="7" fill="#44a51c"/>
-<text class="small" x="492" y="282">3.8% (4.4M)</text>
-<text x="24" y="310">JavaScript</text>
+<rect x="180" y="271" width="9" height="14" rx="7" fill="#3572A5"/>
+<text class="small" x="492" y="282">1.4% (32.7K)</text>
+<text x="24" y="310">PHP</text>
 <rect class="track" x="180" y="299" width="300" height="14" rx="7" fill="#d0d7de"/>
-<rect x="180" y="299" width="16" height="14" rx="7" fill="#f1e05a"/>
-<text class="small" x="492" y="310">1.9% (2.2M)</text>
-<text x="24" y="338">Cuda</text>
-<rect class="track" x="180" y="327" width="300" height="14" rx="7" fill="#d0d7de"/>
-<rect x="180" y="327" width="16" height="14" rx="7" fill="#3A4E3A"/>
-<text class="small" x="492" y="338">1.9% (2.2M)</text>
-<text x="24" y="366">TypeScript</text>
-<rect class="track" x="180" y="355" width="300" height="14" rx="7" fill="#d0d7de"/>
-<rect x="180" y="355" width="14" height="14" rx="7" fill="#3178c6"/>
-<text class="small" x="492" y="366">1.7% (2.0M)</text>
-<text x="24" y="394">Java</text>
-<rect class="track" x="180" y="383" width="300" height="14" rx="7" fill="#d0d7de"/>
-<rect x="180" y="383" width="13" height="14" rx="7" fill="#b07219"/>
-<text class="small" x="492" y="394">1.7% (1.9M)</text>
-<text x="24" y="422">Svelte</text>
-<rect class="track" x="180" y="411" width="300" height="14" rx="7" fill="#d0d7de"/>
-<rect x="180" y="411" width="6" height="14" rx="7" fill="#ff3e00"/>
-<text class="small" x="492" y="422">0.8% (940.0K)</text>
-<text x="24" y="450">CMake</text>
-<rect class="track" x="180" y="439" width="300" height="14" rx="7" fill="#d0d7de"/>
-<rect x="180" y="439" width="5" height="14" rx="7" fill="#DA3434"/>
-<text class="small" x="492" y="450">0.7% (741.5K)</text>
-<text x="24" y="478">Metal</text>
-<rect class="track" x="180" y="467" width="300" height="14" rx="7" fill="#d0d7de"/>
-<rect x="180" y="467" width="4" height="14" rx="7" fill="#8f14e9"/>
-<text class="small" x="492" y="478">0.6% (653.0K)</text>
-<text x="24" y="506">CSS</text>
-<rect class="track" x="180" y="495" width="300" height="14" rx="7" fill="#d0d7de"/>
-<rect x="180" y="495" width="4" height="14" rx="7" fill="#563d7c"/>
-<text class="small" x="492" y="506">0.5% (536.0K)</text>
-<text x="24" y="534">Jinja</text>
-<rect class="track" x="180" y="523" width="300" height="14" rx="7" fill="#d0d7de"/>
-<rect x="180" y="523" width="4" height="14" rx="7" fill="#a52a22"/>
-<text class="small" x="492" y="534">0.5% (535.1K)</text>
-<text x="24" y="562">Shell</text>
-<rect class="track" x="180" y="551" width="300" height="14" rx="7" fill="#d0d7de"/>
-<rect x="180" y="551" width="4" height="14" rx="7" fill="#89e051"/>
-<text class="small" x="492" y="562">0.4% (458.3K)</text>
-<text x="24" y="590">GLSL</text>
-<rect class="track" x="180" y="579" width="300" height="14" rx="7" fill="#d0d7de"/>
-<rect x="180" y="579" width="4" height="14" rx="7" fill="#5686a5"/>
-<text class="small" x="492" y="590">0.3% (386.1K)</text>
-<text x="24" y="618">Kotlin</text>
-<rect class="track" x="180" y="607" width="300" height="14" rx="7" fill="#d0d7de"/>
-<rect x="180" y="607" width="4" height="14" rx="7" fill="#A97BFF"/>
-<text class="small" x="492" y="618">0.2% (237.7K)</text>
-<text x="24" y="646">WGSL</text>
-<rect class="track" x="180" y="635" width="300" height="14" rx="7" fill="#d0d7de"/>
-<rect x="180" y="635" width="4" height="14" rx="7" fill="#8b949e"/>
-<text class="small" x="492" y="646">0.2% (225.7K)</text>
-<text class="small" x="24" y="698">Auto-generated from GitHub API data.</text>
+<rect x="180" y="299" width="4" height="14" rx="7" fill="#8b949e"/>
+<text class="small" x="492" y="310">0.0% (412)</text>
+<text class="small" x="24" y="362">Auto-generated from GitHub API data.</text>
 </svg>
