@@ -13,7 +13,7 @@ def api(url):
 user = api(f'https://api.github.com/users/{USER}')
 repos=[]; page=1
 while True:
-    batch = api(f'https://api.github.com/user/repos?per_page=100&page={page}&type=owner')
+    batch = api(f'https://api.github.com/users/{USER}/repos?per_page=100&page={page}&type=owner')
     if not batch: break
     repos += batch
     if len(batch) < 100: break
