@@ -10,9 +10,9 @@ text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,san
 <text class="muted" x="24" y="70">Public repos</text>
 <text class="val" x="24" y="92">39</text>
 <text class="muted" x="184" y="70">Followers</text>
-<text class="val" x="184" y="92">6</text>
+<text class="val" x="184" y="92">5</text>
 <text class="muted" x="344" y="70">Following</text>
-<text class="val" x="344" y="92">7</text>
+<text class="val" x="344" y="92">8</text>
 <text class="muted" x="504" y="70">Stars (owned repos)</text>
 <text class="val" x="504" y="92">4</text>
 <text class="muted" x="24" y="135">Top languages by code in owned non-fork repositories</text>
