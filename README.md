@@ -74,6 +74,12 @@ I vibe-code with [OpenCode](https://opencode.ai), ship small ideas as demos, the
 
 <sub>Auto-generated daily via GitHub Actions.</sub>
 
+## OpenCode Wrapped
+
+<p align="center">
+  <img src="assets/opencode-wrapped.png" alt="OpenCode Wrapped 2026" width="100%" />
+</p>
+
 ## More to explore
 I keep a lot of experiments, themed sketches, and learning projects across my repos. Many now have READMEs, screenshots, setup notes, and demo links where available.
 
